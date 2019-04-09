@@ -1,0 +1,268 @@
+/* body{
+    padding: 0px;
+    background-size: cover;
+    width: 100%;
+}
+div{
+    background-color: rgb(255, 228, 196);
+    color: brown;
+    text-align: center;
+    border-bottom-width: 5px;
+    text-transform: lowercase;
+
+
+}
+span{
+    background-color: rgb(139, 91, 172);
+}
+.padd{
+    background-color: blue;
+    text-align: center;
+    padding: 5px 0 50px 0;
+    border-style: ridge;
+    border-bottom-width: 5px;
+    margin-right: 50px;
+    
+
+}
+p{
+    background-color: blanchedalmond;
+    text-decoration: line-through;
+    text-decoration: green;
+    text-indent: 5px;
+}
+ */
+
+/* p{
+    text-indent: 50px;
+    line-height: 30px;
+    word-spacing: 5px;
+    text-transform: justify;
+    font-family: 'Slabo 27px', serif;
+}
+a:link{
+    color:red;
+    background-color: green;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+    position: relative;
+    bottom: 300px;
+}
+a:visited{
+    color:white;
+    background:rgba(253, 18, 18, 0.582);
+}
+a:hover{
+    color:black;
+    background: brown;
+}
+a:active{
+    color:green;
+    background:white;
+}
+.mylist{
+    margin-top: 50px;
+    list-style-type:circle;
+    background-color: yellow;
+    width: 100px;
+}
+.classlist{
+    background-color: blue;
+}
+.classlist li{
+    background-color: brown;
+    border-radius: 50%;
+}
+
+
+#display li{
+    background-color: green;
+    display: inline;
+}
+.row{
+    visibility: hidden;
+}
+.relative{
+    border: 3px solid blue;
+    width: 300px;;
+    height:200px;
+    position: relative;
+}
+.absolute{
+    border: 2px solid gold;
+    height:50px;
+    width:50px;
+    position: absolute;
+}  */
+/* #banner{
+    height: 400px;
+    width: 100%;
+    border: 3px solid black;
+    position: relative;
+}
+#one{
+    height: 200px;
+    width: 200px;
+    border: 3px solid red;
+    background-color: red;
+    position: absolute;
+    bottom:0px;
+    z-index: 1;
+}
+#two{
+    height: 200px;
+    width: 200px;
+    border: 3px solid blue;
+    background-color: blue;
+    position: absolute;
+    bottom:0px;
+    left:20px;
+}
+#there{
+    height: 200px;
+    width: 200px;
+    border: 3px solid yellow;
+    background-color: yellow;
+    position: absolute;
+    bottom:0px;
+    left:40px;
+} */
+/* 
+img{
+    width: 100%;
+    position: relative;
+   opacity: 0.6; 
+}
+h1{
+    position: absolute;
+    top:50%;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+
+} */
+/* #overflow{
+    text-align: justify;
+    width:100%;
+    height: 50px;
+    border: 2px dotted red;
+} */
+/* #term1{
+    float: left;
+    width: 45%;;
+    border: 2px solid red;
+
+}
+#term2{
+    float: right;
+    width: 45%;;
+    border: 2px solid green;
+    margin-top: 30px;
+}
+.zony{
+    color: red;
+    clear: both;
+     
+} */
+/* div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    margin: 10px;
+    display: inline-block;
+
+} */
+/* p{
+    border: 2px solid red;
+    text-align: center;
+    height: 300px;
+    line-height: 300px;
+} */
+/* div::before{
+    content: url(images/o.jpg);
+}
+   
+p{
+    width:30%;
+    background-color: red;
+    display: none;
+}
+div.z:hover p{
+    display: block;
+
+} */
+/* h1:first-child{
+    background-color: red;
+}
+h1:nth-child(2){
+    color: brown;
+} */
+/* /* .lucky{
+    height: 300px;
+    width: 100%;
+    background: url(images/o.jpg);
+    position: relative;
+}
+.rocky{
+    width:50px;
+    color: red;
+    position: absolute;
+    top:50%;
+    left:50%;
+} */
+/* ul{
+    list-style-type: none;
+
+/* }
+li a{
+    text-decoration: none;
+    border: 2px solid green;
+    display: block;
+    background-color: red;
+    margin: 10px;
+    width: 20%;
+    text-align: center;
+
+} */
+/* body{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    height: 900px;
+    margin-left: 30%;
+    padding:10px;
+}
+ul{
+    margin:0;
+    padding:0;
+    height:100%;
+    width:20%;
+    position:fixed;
+    background-color: aqua;
+    color: blanchedalmond;
+    list-style-type: none;
+}
+li a
+{
+     display: block;
+    text-align: center;
+    text-decoration: none;
+    padding:8px;
+    background-color: black;
+    color: blue
+
+}
+li a:hover{
+    background-color: brown;
+    color:blueviolet;
+}
+body{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:0;
+    padding:0;
+}
